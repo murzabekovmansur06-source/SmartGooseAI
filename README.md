@@ -11,10 +11,11 @@ SmartGooseAI -  Мод для Desktop Goose с RAG-поиском и опцио�
 
 | Шаг | Установка |
 |-----|-----------|
-| 1 | Скачайте SmartGooseAI.dll с GitHub Releases |
+| 1 | Скачайте SmartGooseAI.dll и Newtonsoft.Jsonl.dll |
 | 2 | Поместите файл в папку Assets/Mods/SmartGooseAI/ |
-| 3 | Запустите Desktop Goose |
-| 4 | Нажмите Ctrl+Alt+N — появится окно чата |
+| 3 | Закиньте датасеты(dataset_all1.jsonl,dataset_all2.jsonl,full_articles.jsonl и learned_data.jsonl) в папку knowledge  |
+| 4 | Запустите Desktop Goose |
+| 5 | Нажмите Ctrl+Alt+N(или нажмите 2 раза на синею кнопку I рядом с часами  — появится окно чата(или ^ - потом I ДВА РАЗА)) |
 
 > Примечание: конфиг config.json создастся автоматически при первом запуске.
 
